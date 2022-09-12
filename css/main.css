@@ -1,0 +1,66 @@
+/* Start Global Rules */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+
+}
+
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+html {
+    scroll-behavior: smooth;
+
+}
+
+/* Small */
+@media (min-width: 780px) {
+    .container {
+        width: 750px;
+    }
+}
+
+/* Medium */
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+}
+
+/* Large */
+@media (min-width: 1200px) {
+    .container {
+        width: 1170px;
+    }
+}
+
+/* X-Large */
+@media (min-width: 1400px) {
+    .container {
+        width: 1350px;
+    }
+}
+
+/* Start Global Variables */
+:root {
+    --Main-Color: #0f748f;
+    --secondry-Color: #00c7fc;
+    --Section-Background: #1f2021;
+    --Section-Padding: 60px;
+
+}
+
+/* End Global Variables */
+
+/* End Global Rules */
