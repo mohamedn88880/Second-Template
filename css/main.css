@@ -331,7 +331,7 @@ header nav .toggle-menu {
 .landing {
     position: relative;
     min-height: 100vh;
-    background-image: url(../images/landing.jpg);
+    background-image: url("../images/landing.jpg");
     background-color: var(--Section-Background);
     background-size: cover;
 
@@ -541,7 +541,7 @@ header nav .toggle-menu {
     padding-top: var(--Section-Padding);
     padding-bottom: var(--Section-Padding);
     background-color: var(--Section-Background);
-    background-image: url("/images/design_01.jpg");
+    background-image: url("../images/design_01.jpg");
     background-size: cover;
     height: 600px;
     position: relative;
@@ -830,7 +830,7 @@ section .more {
     max-width: 100%;
     height: 600px;
     background-color: var(--Section-Background);
-    background-image: url("/images/Video-Sectiong.jpg");
+    background-image: url("../images/Video-Sectiong.jpg");
     background-size: cover;
     position: relative;
     overflow: hidden;
@@ -930,7 +930,7 @@ section .more {
     padding-top: var(--Section-Padding);
     padding-bottom: var(--Section-Padding);
     background-color: var(--Section-Background);
-    background-image: url("/images/statistic.jpg");
+    background-image: url("../images/statistic.jpg");
     position: relative;
 
 }
@@ -1253,7 +1253,7 @@ section .more {
     padding-top: var(--Section-Padding);
     padding-bottom: var(--Section-Padding);
     text-align: center;
-    background-image: url("/images/quote.png");
+    background-image: url("../images/quote.png");
     background-size: cover;
     color: whitesmoke;
     position: relative;
@@ -1438,7 +1438,7 @@ section .more {
     padding-top: var(--Section-Padding);
     padding-bottom: var(--Section-Padding);
     background-color: var(--Section-Background);
-    background-image: url("/images/subscribe.jpg");
+    background-image: url("../images/subscribe.jpg");
     background-size: cover;
     position: relative;
 
@@ -1653,7 +1653,7 @@ footer {
     padding-top: calc(var(--Section-Padding) / 2);
     padding-bottom: calc(var(--Section-Padding) / 2);
     background-color: var(--Section-Background);
-    background-image: url("/images/footer.jpg");
+    background-image: url("../images/footer.jpg");
     background-size: cover;
     position: relative;
 
