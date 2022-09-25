@@ -830,11 +830,9 @@ section .more {
     max-width: 100%;
     height: 600px;
     background-color: var(--Section-Background);
-    background-image: url("../images/Video-Sectiong.jpg");
     background-size: cover;
     position: relative;
     overflow: hidden;
-
 
 }
 
