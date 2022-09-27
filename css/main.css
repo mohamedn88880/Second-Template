@@ -1493,6 +1493,7 @@ section .more {
     padding: 20px 20px 20px 60px;
     border-right: none;
     width: calc(100% - 130px);
+    color: whitesmoke;
 
 }
 
