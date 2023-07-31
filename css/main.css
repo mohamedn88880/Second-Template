@@ -257,6 +257,11 @@ header .container nav .form i {
 }
 
 @media (max-width: 767px) {
+    header .container {
+        padding: 20px 0;
+
+    }
+
     header .container nav ul {
         display: none;
 
@@ -437,7 +442,7 @@ header .container nav .form i {
 
     .landing .text {
         top: 53%;
-        padding: 10px 5px;
+        padding: 80px 5px;
 
     }
 
@@ -609,7 +614,7 @@ header .container nav .form i {
 .portfolios-box {
     position: relative;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
 
 }
 
@@ -678,7 +683,7 @@ header .container nav .form i {
 .portfolios-box .title {
     display: initial;
     position: absolute;
-    bottom: 0px;
+    bottom: -1px;
     left: 0px;
     background-color: white;
     width: 100%;
