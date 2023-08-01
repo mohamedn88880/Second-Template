@@ -129,7 +129,7 @@ a {
 @media (max-width: 576px) {}
 
 /* Extra Small */
-@media (max-width: 767px) {
+@media (min-width: 577px) {
     .container {
         width: calc(100vw - 30px);
 
